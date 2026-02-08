@@ -1,0 +1,10 @@
+cliente1 tessera:123456 spesa:35€
+cliente2 tessera:234123 spesa:9€
+cliente3 tessera:897543 spesa:77€
+cliente4 tessera:222666 spesa:46€
+cliente5 tessera:999111 spesa:12€
+cliente6 tessera:554466 spesa:65€
+cliente7 tessera:123890 spesa:81€
+cliente8 tessera:324233 spesa:27€
+cliente9 tessera:019201 spesa:100€
+cliente10 tessera:192833 spesa:50€  
