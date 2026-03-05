@@ -10,7 +10,7 @@ void occorrenze(int v[], int n, int x) {
     cout << "Il numero " << x << " compare " << conto << " volte." << endl;
 }
 int main() {
-    int dati[] = {4,5,2,12,56,7,9,0,33,4,2,33};
+    int dati[] = {4,2,12,56,7,9,0,33,4,2,33};
     int n = sizeof(dati) / sizeof(dati[0]);
     int x;
 

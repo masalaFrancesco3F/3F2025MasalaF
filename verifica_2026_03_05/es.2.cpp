@@ -10,7 +10,7 @@ void ricercanumero(int v[], int n, int x){
     cout << 0 << endl;
 }
 int main() {
-    int dati[] = {2,5,3,7,11,13,17,19};
+    int dati[] = {2,4,3,7,11,13,17,19};
     int n = sizeof(dati) / sizeof(dati[0]);
     int x;
 

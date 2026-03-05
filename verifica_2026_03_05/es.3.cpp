@@ -10,7 +10,7 @@ void fattoriale(int n) {
 int main() {
     int n;
 
-    cout << "Inserisci un numero per calcolare il fattoriale: ";
+    cout << "Inserisci un numero di cui calcolare il fattoriale: ";
     cin >> n;
     fattoriale(n);
 
