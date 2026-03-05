@@ -10,7 +10,7 @@ void StampaMultipli(int v[], int n, int x) {
     cout << endl;
 }   
 int main() {
-    int dati[] = {2, 5, 10, 15, 20, 25, 30};
+    int dati[] = {2, 4, 10, 15, 20, 25, 30};
     int n = sizeof(dati) / sizeof(dati[0]);
     int x;
 
