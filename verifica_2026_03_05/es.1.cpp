@@ -8,16 +8,14 @@ void StampaMultipli(int v[], int n, int x) {
         }
     }
     cout << endl;
-}   
+}
+
 int main() {
-    int dati[] = {2, 4, 10, 15, 20, 25, 30};
+    int dati[] = {1, 3, 4, 6, 7, 9, 10, 12};
     int n = sizeof(dati) / sizeof(dati[0]);
-    int x;
 
-    cout << "Inserisci un numero per trovare i suoi multipli: ";
-    cin >> x;
-
-    StampaMultipli(dati, n, x);
+    cout << "Multipli di 3: ";
+    StampaMultipli(dati, n, 3);
 
     return 0;
 }

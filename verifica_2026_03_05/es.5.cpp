@@ -11,6 +11,7 @@ void non_picchi(int v[], int n) {
 }
 int main() {
     int dati[] = {1, 3, 2, 5, 4, 6, 7, 8, 9, 10};
+
     int n = sizeof(dati) / sizeof(dati[0]);
 
     non_picchi(dati, n);
