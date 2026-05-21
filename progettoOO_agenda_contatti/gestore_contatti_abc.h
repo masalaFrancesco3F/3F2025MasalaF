@@ -20,8 +20,8 @@ public:
     virtual void stampaPerCognome(const char* cognome) const = 0;
     virtual void stampaContatto(const char* cognome, const char* nome) const = 0;
     virtual void stampaTutti() const = 0;
-    virtual void carica() {}
-    virtual void salva() const {}
+    virtual void carica() = 0;
+    virtual void salva() const = 0;
 };
 
 #endif // GESTORE_CONTATTI_ABC_H
