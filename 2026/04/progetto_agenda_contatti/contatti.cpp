@@ -2,11 +2,11 @@
 
 using namespace std;
 
+#include "utility.h"
 #include "contatti.h"
 
 
 Contatto::Contatto() {
-
     copiaStringa(nome, "");
     copiaStringa(cognome, "");
     copiaStringa(telefono, "");

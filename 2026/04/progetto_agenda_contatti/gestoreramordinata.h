@@ -2,7 +2,7 @@
 #define GESTORERAMORDINATA_H
 
 #include "gestorecontattiabc.h"
-#include "contatto.h"
+#include "contatti.h"
 
 class GestoreRAMOrdinata :
     public GestoreContattiABC {
